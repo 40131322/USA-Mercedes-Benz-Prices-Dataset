@@ -5,6 +5,7 @@
 This project aims to predict the prices of Mercedes Benz cars based on various features such as model, year of manufacture, mileage, fuel type, and other relevant attributes. By leveraging machine learning techniques, we seek to provide accurate price estimates for both buyers and sellers in the Mercedes Benz car market.
 
 **Features:**
+
 Data Collection: The project utilizes a comprehensive dataset containing information on various Mercedes Benz car models, including their specifications and historical prices.
 
 Data Preprocessing: Prior to model training, the dataset undergoes preprocessing steps such as handling missing values, encoding categorical variables, and scaling numerical features.
